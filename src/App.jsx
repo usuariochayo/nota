@@ -1,12 +1,12 @@
 function App() {
   const persona = {
-    nombre: "Lizbeth",
-    apellidoPaterno: "García",
-    apellidoMaterno: "Gil",
+    nombre: "Rosario",
+    apellidoPaterno: "Contreras",
+    apellidoMaterno: "Santiago",
     edad: 22,
   };
 
-  const nuevoTelefono = "2871824719"
+  const nuevoTelefono = "2871655971"
 
   const { nombre,
     apellidoPaterno,
@@ -15,8 +15,8 @@ function App() {
   } = persona;
   
   const contactoPersona = {
-    telefono : "2871013674",
-    email : "lizbethgg07@gmail.com",
+    telefono : "2871655971",
+    email : "isc18350502@gmail.com",
     empresa : "ITTUX",
   }
 
